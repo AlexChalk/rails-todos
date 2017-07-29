@@ -8,4 +8,3 @@ feature 'user marks a todo as complete' do
     expect(page).to display_completed_todo 'Eat some food'
   end
 end
-
